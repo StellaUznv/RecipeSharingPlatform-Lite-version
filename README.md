@@ -4,14 +4,16 @@ Functionality
 The functionality of the RecipeSharingPlatform is a very simple application.
 
 Users
-Guests can Register, Login and view the Home Page, Index Page and Details Page. 
-Logged-in users can publish recipes and edit recipes they have created. 
-Users (guest-users + logged-in-users) can view all published recipes, including those by other users, on the Home Page (/Recipe/Index). 
+
+Guests can Register, Login and view the Home Page, Index Page and Details Page.
+Logged-in users can publish recipes and edit recipes they have created.
+Users (guest-users + logged-in-users) can view all published recipes, including those by other users, on the Home Page (/Recipe/Index).
 If the user is the author of the recipe
 •	They can't see the [Favorites] button
 •	They can see the [Details] button
-If the user is not the author of the recipe, they can only add the recipe to their collection [Favorites].
+If the user is not the author of the recipe, they can only add the recipe to their collection [Favorites].\
 Recipe
+
 Recipe can be added by logged-in-users. All added recipes are visualized on the Home Page (/Recipe/Index) with some of their associated information. 
 Recipes are visualized on the Index Page (/Recipe/Index) with one or two buttons:
 •	If the user IS NOT the author of the recipe – [Details][Favorites]
