@@ -1,7 +1,8 @@
 # RecipeSharingPlatform Lite-Version
+Functionality
 
-7.	Functionality
 The functionality of the RecipeSharingPlatform is a very simple application.
+
 Users
 Guests can Register, Login and view the Home Page, Index Page and Details Page. 
 Logged-in users can publish recipes and edit recipes they have created. 
