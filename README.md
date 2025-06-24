@@ -30,3 +30,5 @@ The [Edit] button displays a new page with a form, filled in with all of the inf
 
 Users have a Favorites page where only the recipes they have selected as favorites are displayed.
 •	The [Remove] button removes the selected recipe from the user's collection of favorite recipes.
+
+![image](https://github.com/user-attachments/assets/846a00fc-4bb8-4bf1-a3e2-faa22b635095)
