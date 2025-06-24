@@ -1,0 +1,1 @@
+# RecipeSharingPlatform Lite-Version
