@@ -1,9 +1,9 @@
 # RecipeSharingPlatform Lite-Version
-Functionality
+# Functionality
 
 The functionality of the RecipeSharingPlatform is a very simple application.
 
-Users
+# Users
 
 Guests can Register, Login and view the Home Page, Index Page and Details Page.
 Logged-in users can publish recipes and edit recipes they have created.
@@ -12,7 +12,7 @@ If the user is the author of the recipe
 •	They can't see the [Favorites] button
 •	They can see the [Details] button
 If the user is not the author of the recipe, they can only add the recipe to their collection [Favorites].\
-Recipe
+# Recipe
 
 Recipe can be added by logged-in-users. All added recipes are visualized on the Home Page (/Recipe/Index) with some of their associated information. 
 Recipes are visualized on the Index Page (/Recipe/Index) with one or two buttons:
@@ -31,21 +31,21 @@ The [Edit] button displays a new page with a form, filled in with all of the inf
 Users have a Favorites page where only the recipes they have selected as favorites are displayed.
 •	The [Remove] button removes the selected recipe from the user's collection of favorite recipes.
 
-Index Page
+# Index Page
 ![image](https://github.com/user-attachments/assets/846a00fc-4bb8-4bf1-a3e2-faa22b635095)
-Recipe/Index 
+# Recipe/Index 
 ![image](https://github.com/user-attachments/assets/e7f7fdd9-80fa-4052-a66b-84057ef40021)
-Login Page 
+# Login Page 
 ![image](https://github.com/user-attachments/assets/85a3cd40-613c-41ac-8139-dbe0ff25ac4d)
-Register Page 
+# Register Page 
 ![image](https://github.com/user-attachments/assets/67b9a5b4-9198-4bc5-a604-51d681f91fdd)
-Recipe/Create 
+# Recipe/Create 
 ![image](https://github.com/user-attachments/assets/04a278b4-b62c-4540-a94d-d561e9cc1493)
-Recipe/Favorites 
+# Recipe/Favorites 
 ![image](https://github.com/user-attachments/assets/0c07e162-02d2-46c6-a30a-b567fc019674)
-Recipe/Details
+# Recipe/Details
 ![image](https://github.com/user-attachments/assets/2b07b974-57bc-4884-b05f-615d2653c847)
-Recipe/Edit
+# Recipe/Edit
 ![image](https://github.com/user-attachments/assets/574a6b5b-9f0c-4655-aa7e-8f003b0dd10b)
-Recipe/ConfirmDelete
+# Recipe/ConfirmDelete
 ![image](https://github.com/user-attachments/assets/2ee1b642-b26b-41dc-b1ba-d885a1a3180b)
